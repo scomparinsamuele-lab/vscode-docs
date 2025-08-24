@@ -167,7 +167,7 @@ You can customize almost every part of VS Code by configuring settings. You can 
 
 VS Code has built-in support for JavaScript, TypeScript, HTML, CSS, and more. In this tutorial, you create a sample JavaScript file and use some of the code editing features that VS Code offers.
 
-VS Code supports many programming languages and in a next step, you'll [install a language extension](#step-6-install-a-language-extension) to add support for a different language, namely Python.
+VS Code supports many programming languages and in a next step, you'll [install a language extension]() to add support for a different language, namely Python.
 
 1. In the Explorer view, create a new file `app.js`, and start typing the following JavaScript code:
 
